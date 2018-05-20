@@ -1,0 +1,5 @@
+.DS_Store
+autresbots/
+*.o
+chaine
+log.txt
